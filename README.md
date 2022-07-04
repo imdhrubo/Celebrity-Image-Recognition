@@ -6,4 +6,5 @@ In this machine learning project, we classify sports personalities. We restrict 
 4. Roger Federer
 5. Lionel Messi
 
-![image](https://user-images.githubusercontent.com/101350294/177192796-36667c36-1b6d-4171-863a-c34d5ce6de45.png)
+![image](https://user-images.githubusercontent.com/101350294/177192933-8c70d787-61c4-455c-9968-af15ab7a186d.png)
+
